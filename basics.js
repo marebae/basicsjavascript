@@ -1,4 +1,3 @@
-
 let counter = 0;
 
 function tickUp() {
@@ -89,7 +88,7 @@ function loadCar(carNumber) {
     document.getElementById("carColor").value = car.cColor;
 }
 
-s
+
 function changeColor(colorNumber) {
     let paragraph = document.getElementById("styleParagraph");
     
